@@ -4,19 +4,20 @@ import json
 
 
 #Декоратор, запускающий функцию нахождения корней квадратного уравнения с каждой тройкой чисел из csv файла
-def equation_decorator(func):
-    filename = 'roots.csv'
-    def wrapper():
-        results = []
-        with open(filename, 'r') as file:
-            reader = csv.reader(file)
-            for row in reader:
-                a, b, c = map(int, row)
-                result = func(a, b, c)
-                results.append({'equation': f'{a}x^2 + {b}x + {c} = 0',
-                                'result': result})
-        return results
-    return wrapper
+def equation_decorator(filename):
+    def decorator(func):
+        def wrapper():
+            results = []
+            with open(filename, 'r') as file:
+                reader = csv.reader(file)
+                for row in reader:
+                    a, b, c = map(int, row)
+                    result = func(a, b, c)
+                    results.append({'equation': f'{a}x^2 + {b}x + {c} = 0',
+                                    'result': result})
+            return results
+        return wrapper
+    return decorator
 
 
 
@@ -42,7 +43,7 @@ def generate_csv_file(filename: str):
 
 #Функция нахождения корней квадртного уравнения
 @to_json_decorator('equation_sol.json')
-@equation_decorator
+@equation_decorator('roots.csv')
 def find_roots_equation(a: int, b: int, c: int,) -> tuple[str, str] | str:
     discriminant = b**2 - 4*a*c
     if discriminant >= 0:

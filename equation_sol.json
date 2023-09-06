@@ -1,1052 +1,4340 @@
 [
     {
-        "equation": "75x^2 + 6x + 88 = 0",
+        "equation": "8x^2 + 40x + 72 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "21x^2 + 74x + 22 = 0",
+        "equation": "94x^2 + 58x + 16 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "31x^2 + 33x + 51 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "32x^2 + 83x + 49 = 0",
         "result": [
-            "-0.32778853844041933",
-            "-3.196020985369105"
+            "-0.9087580516133056",
+            "-1.6849919483866944"
         ]
     },
     {
-        "equation": "71x^2 + 64x + 57 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "21x^2 + 29x + 62 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "26x^2 + 39x + 97 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "63x^2 + 16x + 58 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "27x^2 + 86x + 81 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "5x^2 + 65x + 73 = 0",
+        "equation": "16x^2 + 83x + 33 = 0",
         "result": [
-            "-1.2416732699460375",
-            "-11.758326730053962"
+            "-0.43387985054656575",
+            "-4.753620149453434"
         ]
     },
     {
-        "equation": "97x^2 + 14x + 2 = 0",
+        "equation": "78x^2 + 72x + 22 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "41x^2 + 72x + 82 = 0",
+        "equation": "84x^2 + 54x + 64 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "90x^2 + 20x + 16 = 0",
+        "equation": "50x^2 + 1x + 67 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "98x^2 + 77x + 84 = 0",
+        "equation": "10x^2 + 13x + 93 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "20x^2 + 20x + 48 = 0",
+        "equation": "61x^2 + 68x + 99 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "24x^2 + 96x + 39 = 0",
+        "equation": "92x^2 + 86x + 28 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "71x^2 + 91x + 52 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "81x^2 + 66x + 80 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "31x^2 + 89x + 35 = 0",
         "result": [
-            "-0.45889649925775594",
-            "-3.5411035007422442"
+            "-0.4702990773950206",
+            "-2.400668664540463"
         ]
     },
     {
-        "equation": "35x^2 + 94x + 69 = 0",
+        "equation": "11x^2 + 42x + 57 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "98x^2 + 17x + 14 = 0",
+        "equation": "22x^2 + 30x + 87 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "25x^2 + 56x + 43 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "94x^2 + 6x + 2 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "23x^2 + 55x + 39 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "99x^2 + 13x + 42 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "92x^2 + 95x + 4 = 0",
+        "equation": "84x^2 + 60x + 10 = 0",
         "result": [
-            "-0.04397827537766096",
-            "-0.988630420274513"
+            "-0.2649289679474425",
+            "-0.44935674633827183"
         ]
     },
     {
-        "equation": "28x^2 + 66x + 13 = 0",
+        "equation": "43x^2 + 72x + 50 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "7x^2 + 22x + 51 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "98x^2 + 25x + 93 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "20x^2 + 52x + 24 = 0",
         "result": [
-            "-0.2169348558688386",
-            "-2.1402080012740186"
+            "-0.6",
+            "-2.0"
         ]
     },
     {
-        "equation": "49x^2 + 38x + 58 = 0",
+        "equation": "12x^2 + 17x + 58 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "100x^2 + 58x + 65 = 0",
+        "equation": "83x^2 + 23x + 43 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "7x^2 + 12x + 72 = 0",
+        "equation": "77x^2 + 53x + 12 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "59x^2 + 28x + 47 = 0",
+        "equation": "74x^2 + 76x + 20 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "64x^2 + 63x + 38 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "63x^2 + 29x + 12 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "54x^2 + 50x + 97 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "23x^2 + 76x + 44 = 0",
+        "equation": "1x^2 + 20x + 55 = 0",
         "result": [
-            "-0.7484952308336292",
-            "-2.5558525952533273"
+            "-3.2917960675006306",
+            "-16.70820393249937"
         ]
     },
     {
-        "equation": "59x^2 + 17x + 15 = 0",
+        "equation": "71x^2 + 26x + 97 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "55x^2 + 30x + 9 = 0",
+        "equation": "85x^2 + 71x + 19 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "62x^2 + 17x + 88 = 0",
+        "equation": "51x^2 + 59x + 64 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "66x^2 + 98x + 22 = 0",
+        "equation": "12x^2 + 49x + 40 = 0",
         "result": [
-            "-0.2756690363409284",
-            "-1.2091794485075564"
+            "-1.1278453250224454",
+            "-2.9554880083108883"
         ]
     },
     {
-        "equation": "48x^2 + 50x + 20 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "50x^2 + 95x + 81 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "50x^2 + 87x + 32 = 0",
+        "equation": "4x^2 + 51x + 92 = 0",
         "result": [
-            "-0.5280935800544249",
-            "-1.2119064199455751"
+            "-2.1749255958971396",
+            "-10.57507440410286"
         ]
     },
     {
-        "equation": "96x^2 + 77x + 59 = 0",
+        "equation": "41x^2 + 48x + 87 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "61x^2 + 52x + 70 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "15x^2 + 37x + 73 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "84x^2 + 38x + 72 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "56x^2 + 88x + 19 = 0",
+        "equation": "15x^2 + 77x + 87 = 0",
         "result": [
-            "-0.2583991764202357",
-            "-1.3130293950083356"
+            "-1.67909820295371",
+            "-3.4542351303796233"
         ]
     },
     {
-        "equation": "68x^2 + 24x + 13 = 0",
+        "equation": "59x^2 + 35x + 93 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "37x^2 + 3x + 83 = 0",
+        "equation": "63x^2 + 87x + 33 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "36x^2 + 17x + 24 = 0",
+        "equation": "38x^2 + 50x + 69 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "53x^2 + 40x + 5 = 0",
+        "equation": "23x^2 + 76x + 9 = 0",
         "result": [
-            "-0.15813301813920283",
-            "-0.5965839629928726"
+            "-0.12299953086356745",
+            "-3.1813482952233896"
         ]
     },
     {
-        "equation": "21x^2 + 45x + 97 = 0",
+        "equation": "34x^2 + 72x + 83 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "12x^2 + 20x + 72 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "55x^2 + 53x + 38 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "13x^2 + 87x + 94 = 0",
+        "equation": "19x^2 + 81x + 15 = 0",
         "result": [
-            "-1.354677928307751",
-            "-5.337629763999941"
+            "-0.19401472271579298",
+            "-4.069143172021049"
         ]
     },
     {
-        "equation": "86x^2 + 83x + 49 = 0",
+        "equation": "53x^2 + 27x + 82 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "78x^2 + 29x + 61 = 0",
+        "equation": "82x^2 + 51x + 38 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "20x^2 + 59x + 6 = 0",
+        "equation": "35x^2 + 11x + 35 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "51x^2 + 71x + 56 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "26x^2 + 66x + 15 = 0",
         "result": [
-            "-0.10546540751976625",
-            "-2.844534592480234"
+            "-0.25236122566136265",
+            "-2.286100312800176"
         ]
     },
     {
-        "equation": "90x^2 + 13x + 21 = 0",
+        "equation": "30x^2 + 39x + 92 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "56x^2 + 26x + 53 = 0",
+        "equation": "52x^2 + 81x + 41 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "96x^2 + 20x + 16 = 0",
+        "equation": "53x^2 + 80x + 35 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "42x^2 + 87x + 19 = 0",
+        "equation": "25x^2 + 89x + 55 = 0",
         "result": [
-            "-0.2481083377608051",
-            "-1.8233202336677663"
+            "-0.7959268319885965",
+            "-2.7640731680114037"
         ]
     },
     {
-        "equation": "54x^2 + 19x + 63 = 0",
+        "equation": "99x^2 + 37x + 65 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "76x^2 + 26x + 20 = 0",
+        "equation": "61x^2 + 43x + 45 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "4x^2 + 29x + 75 = 0",
+        "equation": "49x^2 + 13x + 100 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "79x^2 + 41x + 77 = 0",
+        "equation": "87x^2 + 100x + 65 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "68x^2 + 52x + 58 = 0",
+        "equation": "69x^2 + 23x + 37 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "30x^2 + 7x + 84 = 0",
+        "equation": "95x^2 + 64x + 69 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "95x^2 + 70x + 12 = 0",
+        "equation": "27x^2 + 47x + 94 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "31x^2 + 45x + 26 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "81x^2 + 64x + 90 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "74x^2 + 8x + 88 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "12x^2 + 33x + 57 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "64x^2 + 92x + 96 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "32x^2 + 74x + 20 = 0",
         "result": [
-            "-0.2713732162390222",
-            "-0.46546888902413563"
+            "-0.3125",
+            "-2.0"
         ]
     },
     {
-        "equation": "76x^2 + 88x + 9 = 0",
+        "equation": "73x^2 + 13x + 58 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "37x^2 + 5x + 86 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "12x^2 + 36x + 75 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "87x^2 + 46x + 86 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "36x^2 + 45x + 19 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "40x^2 + 94x + 53 = 0",
         "result": [
-            "-0.11337352597489127",
-            "-1.044521210867214"
+            "-0.939150471698585",
+            "-1.410849528301415"
         ]
     },
     {
-        "equation": "60x^2 + 49x + 26 = 0",
+        "equation": "70x^2 + 67x + 21 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "23x^2 + 84x + 83 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "23x^2 + 12x + 34 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "29x^2 + 69x + 16 = 0",
+        "equation": "1x^2 + 30x + 19 = 0",
         "result": [
-            "-0.26037841529573336",
-            "-2.1189319295318527"
+            "-0.6472999055926767",
+            "-29.352700094407325"
         ]
     },
     {
-        "equation": "82x^2 + 73x + 15 = 0",
+        "equation": "66x^2 + 29x + 19 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "66x^2 + 100x + 51 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "15x^2 + 24x + 16 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "55x^2 + 56x + 12 = 0",
         "result": [
-            "-0.3218064120966056",
-            "-0.5684374903424187"
+            "-0.3066267504425446",
+            "-0.7115550677392736"
         ]
     },
     {
-        "equation": "64x^2 + 36x + 76 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "97x^2 + 39x + 89 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "80x^2 + 57x + 75 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "53x^2 + 60x + 75 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "87x^2 + 28x + 22 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "59x^2 + 4x + 64 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "95x^2 + 22x + 3 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "14x^2 + 44x + 91 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "25x^2 + 7x + 92 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "59x^2 + 60x + 13 = 0",
+        "equation": "51x^2 + 75x + 8 = 0",
         "result": [
-            "-0.3130074136496475",
-            "-0.7039417388927253"
+            "-0.11578245968707535",
+            "-1.3548057756070422"
         ]
     },
     {
-        "equation": "54x^2 + 89x + 40 = 0",
+        "equation": "83x^2 + 64x + 41 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "84x^2 + 11x + 13 = 0",
+        "equation": "47x^2 + 63x + 42 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "31x^2 + 50x + 26 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "21x^2 + 63x + 27 = 0",
+        "equation": "19x^2 + 92x + 53 = 0",
         "result": [
-            "-0.5180194939380343",
-            "-2.4819805060619657"
+            "-0.6683341257529776",
+            "-4.173771137404917"
         ]
     },
     {
-        "equation": "41x^2 + 8x + 30 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "3x^2 + 70x + 55 = 0",
+        "equation": "50x^2 + 84x + 22 = 0",
         "result": [
-            "-0.8141196026001959",
-            "-22.51921373073314"
+            "-0.32463605093099496",
+            "-1.355363949069005"
         ]
     },
     {
-        "equation": "43x^2 + 51x + 28 = 0",
+        "equation": "77x^2 + 10x + 43 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "44x^2 + 84x + 33 = 0",
+        "equation": "30x^2 + 23x + 40 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "20x^2 + 48x + 27 = 0",
         "result": [
-            "-0.5531017788032796",
-            "-1.3559891302876295"
+            "-0.9",
+            "-1.5"
         ]
     },
     {
-        "equation": "1x^2 + 58x + 46 = 0",
+        "equation": "24x^2 + 79x + 31 = 0",
         "result": [
-            "-0.8042556402566312",
-            "-57.19574435974337"
+            "-0.4554129477365289",
+            "-2.836253718930138"
         ]
     },
     {
-        "equation": "16x^2 + 66x + 80 = 0",
+        "equation": "45x^2 + 96x + 60 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "100x^2 + 8x + 13 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "8x^2 + 28x + 42 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "75x^2 + 99x + 5 = 0",
+        "equation": "4x^2 + 58x + 27 = 0",
         "result": [
-            "-0.05260117440570127",
-            "-1.2673988255942987"
+            "-0.481506814659558",
+            "-14.018493185340443"
         ]
     },
     {
-        "equation": "60x^2 + 70x + 54 = 0",
+        "equation": "59x^2 + 68x + 79 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "35x^2 + 50x + 14 = 0",
+        "equation": "3x^2 + 84x + 78 = 0",
         "result": [
-            "-0.3823157131822214",
-            "-1.0462557153892071"
+            "-0.9615951895947035",
+            "-27.038404810405297"
         ]
     },
     {
-        "equation": "74x^2 + 13x + 24 = 0",
+        "equation": "65x^2 + 84x + 50 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "15x^2 + 59x + 68 = 0",
+        "equation": "60x^2 + 22x + 25 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "92x^2 + 23x + 69 = 0",
+        "equation": "86x^2 + 75x + 67 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "14x^2 + 69x + 28 = 0",
+        "equation": "36x^2 + 99x + 15 = 0",
         "result": [
-            "-0.44619154363047614",
-            "-4.482379884940952"
+            "-0.16093314297221126",
+            "-2.589066857027789"
         ]
     },
     {
-        "equation": "45x^2 + 89x + 69 = 0",
+        "equation": "82x^2 + 57x + 51 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "51x^2 + 67x + 81 = 0",
+        "equation": "3x^2 + 4x + 77 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "1x^2 + 25x + 12 = 0",
+        "equation": "54x^2 + 94x + 29 = 0",
         "result": [
-            "-0.48958785053568654",
-            "-24.510412149464315"
+            "-0.4007880617368161",
+            "-1.3399526790039247"
         ]
     },
     {
-        "equation": "9x^2 + 73x + 61 = 0",
+        "equation": "77x^2 + 76x + 92 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "4x^2 + 49x + 90 = 0",
         "result": [
-            "-0.9459328957429933",
-            "-7.165178215368119"
+            "-2.25",
+            "-10.0"
         ]
     },
     {
-        "equation": "95x^2 + 33x + 70 = 0",
+        "equation": "86x^2 + 45x + 31 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "86x^2 + 55x + 19 = 0",
+        "equation": "63x^2 + 10x + 87 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "34x^2 + 48x + 77 = 0",
+        "equation": "12x^2 + 34x + 41 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "80x^2 + 47x + 51 = 0",
+        "equation": "80x^2 + 65x + 50 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "38x^2 + 92x + 34 = 0",
+        "equation": "64x^2 + 5x + 58 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "58x^2 + 91x + 76 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "34x^2 + 54x + 23 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "41x^2 + 47x + 20 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "37x^2 + 24x + 100 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "67x^2 + 86x + 21 = 0",
         "result": [
-            "-0.45512104766277245",
-            "-1.965931583916175"
+            "-0.3280030441547964",
+            "-0.9555790453974424"
         ]
     },
     {
-        "equation": "68x^2 + 70x + 64 = 0",
+        "equation": "32x^2 + 56x + 72 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "82x^2 + 47x + 52 = 0",
+        "equation": "28x^2 + 49x + 74 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "6x^2 + 41x + 57 = 0",
+        "equation": "25x^2 + 80x + 50 = 0",
         "result": [
-            "-1.942349498920489",
-            "-4.890983834412844"
+            "-0.8516685226452116",
+            "-2.3483314773547885"
         ]
     },
     {
-        "equation": "50x^2 + 45x + 5 = 0",
+        "equation": "99x^2 + 55x + 85 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "61x^2 + 24x + 19 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "78x^2 + 14x + 30 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "64x^2 + 50x + 39 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "23x^2 + 39x + 11 = 0",
         "result": [
-            "-0.12984378812835756",
-            "-0.7701562118716424"
+            "-0.3573689490139792",
+            "-1.3382832248990644"
         ]
     },
     {
-        "equation": "12x^2 + 69x + 69 = 0",
+        "equation": "35x^2 + 90x + 7 = 0",
         "result": [
-            "-1.28892780744381",
-            "-4.46107219255619"
+            "-0.08028439372977211",
+            "-2.491144177698799"
         ]
     },
     {
-        "equation": "25x^2 + 15x + 55 = 0",
+        "equation": "71x^2 + 67x + 72 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "37x^2 + 41x + 63 = 0",
+        "equation": "95x^2 + 91x + 48 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "59x^2 + 72x + 18 = 0",
+        "equation": "71x^2 + 69x + 13 = 0",
         "result": [
-            "-0.35089731286816345",
-            "-0.8694416701826839"
+            "-0.2556650320525096",
+            "-0.7161659538629833"
         ]
     },
     {
-        "equation": "2x^2 + 92x + 100 = 0",
+        "equation": "60x^2 + 26x + 5 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "100x^2 + 17x + 8 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "2x^2 + 70x + 12 = 0",
         "result": [
-            "-1.1139313717607102",
-            "-44.886068628239286"
+            "-0.17227654883654253",
+            "-34.82772345116346"
         ]
     },
     {
-        "equation": "3x^2 + 20x + 71 = 0",
+        "equation": "59x^2 + 15x + 25 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "76x^2 + 43x + 79 = 0",
+        "equation": "89x^2 + 14x + 54 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "78x^2 + 3x + 29 = 0",
+        "equation": "70x^2 + 42x + 79 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "16x^2 + 18x + 88 = 0",
+        "equation": "32x^2 + 43x + 25 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "47x^2 + 65x + 69 = 0",
+        "equation": "94x^2 + 89x + 46 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "80x^2 + 44x + 17 = 0",
+        "equation": "91x^2 + 57x + 88 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "75x^2 + 56x + 98 = 0",
+        "equation": "85x^2 + 57x + 36 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "28x^2 + 86x + 79 = 0",
+        "equation": "68x^2 + 71x + 21 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "50x^2 + 13x + 78 = 0",
+        "equation": "72x^2 + 50x + 43 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "88x^2 + 13x + 26 = 0",
+        "equation": "91x^2 + 84x + 73 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "37x^2 + 39x + 9 = 0",
+        "equation": "35x^2 + 39x + 1 = 0",
         "result": [
-            "-0.34124693128557404",
-            "-0.71280712276848"
+            "-0.026259880683941566",
+            "-1.0880258336017727"
         ]
     },
     {
-        "equation": "10x^2 + 46x + 12 = 0",
+        "equation": "89x^2 + 39x + 64 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "64x^2 + 17x + 84 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "34x^2 + 64x + 24 = 0",
         "result": [
-            "-0.27762515838433155",
-            "-4.322374841615668"
+            "-0.5169939675924718",
+            "-1.3653589735839988"
         ]
     },
     {
-        "equation": "86x^2 + 84x + 97 = 0",
+        "equation": "62x^2 + 6x + 93 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "13x^2 + 76x + 61 = 0",
+        "equation": "53x^2 + 53x + 34 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "96x^2 + 92x + 76 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "42x^2 + 33x + 52 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "35x^2 + 86x + 61 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "87x^2 + 47x + 65 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "44x^2 + 1x + 4 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "73x^2 + 38x + 70 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "59x^2 + 20x + 95 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "60x^2 + 90x + 64 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "94x^2 + 48x + 88 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "3x^2 + 80x + 63 = 0",
         "result": [
-            "-0.9604075658195271",
-            "-4.885746280334319"
+            "-0.8122400193380344",
+            "-25.854426647328633"
         ]
     },
     {
-        "equation": "70x^2 + 75x + 49 = 0",
+        "equation": "73x^2 + 34x + 30 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "46x^2 + 79x + 82 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "29x^2 + 82x + 20 = 0",
+        "equation": "2x^2 + 61x + 21 = 0",
         "result": [
-            "-0.2696096535836513",
-            "-2.557976553312901"
+            "-0.3482383591737719",
+            "-30.15176164082623"
         ]
     },
     {
-        "equation": "78x^2 + 62x + 33 = 0",
+        "equation": "47x^2 + 54x + 84 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "21x^2 + 13x + 49 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "84x^2 + 21x + 74 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "62x^2 + 3x + 41 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "62x^2 + 37x + 82 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "5x^2 + 16x + 51 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "73x^2 + 34x + 90 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "11x^2 + 67x + 82 = 0",
+        "equation": "72x^2 + 94x + 6 = 0",
         "result": [
-            "-1.69628890184947",
-            "-4.394620189059621"
+            "-0.06729891921227803",
+            "-1.2382566363432774"
         ]
     },
     {
-        "equation": "52x^2 + 15x + 48 = 0",
+        "equation": "64x^2 + 32x + 79 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "79x^2 + 36x + 42 = 0",
+        "equation": "84x^2 + 87x + 46 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "46x^2 + 70x + 67 = 0",
+        "equation": "20x^2 + 50x + 75 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "17x^2 + 37x + 71 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "47x^2 + 47x + 35 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "31x^2 + 19x + 49 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "76x^2 + 73x + 80 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "95x^2 + 69x + 46 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "17x^2 + 86x + 51 = 0",
+        "equation": "37x^2 + 50x + 13 = 0",
         "result": [
-            "-0.6860659275303062",
-            "-4.3727576018814585"
+            "-0.35135135135135137",
+            "-1.0"
         ]
     },
     {
-        "equation": "16x^2 + 59x + 46 = 0",
+        "equation": "52x^2 + 21x + 22 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "67x^2 + 28x + 54 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "88x^2 + 18x + 38 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "58x^2 + 35x + 55 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "13x^2 + 24x + 18 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "83x^2 + 5x + 16 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "89x^2 + 14x + 40 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "4x^2 + 32x + 83 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "10x^2 + 84x + 62 = 0",
         "result": [
-            "-1.1195856108589708",
-            "-2.567914389141029"
+            "-0.8176930949424474",
+            "-7.5823069050575524"
         ]
     },
     {
-        "equation": "34x^2 + 75x + 16 = 0",
+        "equation": "32x^2 + 23x + 17 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "18x^2 + 51x + 79 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "6x^2 + 7x + 77 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "69x^2 + 18x + 25 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "11x^2 + 19x + 5 = 0",
         "result": [
-            "-0.2392913611749398",
-            "-1.9665909917662365"
+            "-0.3238935414982765",
+            "-1.4033791857744509"
         ]
     },
     {
-        "equation": "72x^2 + 5x + 95 = 0",
+        "equation": "38x^2 + 35x + 67 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "88x^2 + 6x + 50 = 0",
+        "equation": "56x^2 + 69x + 78 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "37x^2 + 91x + 68 = 0",
+        "equation": "84x^2 + 4x + 79 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "22x^2 + 19x + 100 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "50x^2 + 22x + 25 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "97x^2 + 61x + 61 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "34x^2 + 58x + 98 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "90x^2 + 50x + 90 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "35x^2 + 65x + 62 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "7x^2 + 3x + 88 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "53x^2 + 58x + 100 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "30x^2 + 11x + 69 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "57x^2 + 66x + 98 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "7x^2 + 87x + 90 = 0",
+        "equation": "16x^2 + 39x + 3 = 0",
         "result": [
-            "-1.138834593288424",
-            "-11.289736835283005"
+            "-0.0795171166526134",
+            "-2.3579828833473866"
         ]
     },
     {
-        "equation": "24x^2 + 61x + 51 = 0",
+        "equation": "58x^2 + 24x + 91 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "4x^2 + 17x + 72 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "73x^2 + 91x + 45 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "22x^2 + 9x + 16 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "75x^2 + 73x + 62 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "41x^2 + 32x + 74 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "38x^2 + 46x + 26 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "38x^2 + 46x + 43 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "45x^2 + 33x + 10 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "83x^2 + 100x + 3 = 0",
+        "equation": "2x^2 + 69x + 18 = 0",
         "result": [
-            "-0.030786690878243",
-            "-1.1740325862301908"
+            "-0.262872520640812",
+            "-34.23712747935919"
         ]
     },
     {
-        "equation": "82x^2 + 74x + 7 = 0",
+        "equation": "85x^2 + 51x + 83 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "91x^2 + 24x + 5 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "55x^2 + 16x + 36 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "67x^2 + 6x + 36 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "43x^2 + 31x + 3 = 0",
         "result": [
-            "-0.10736897122264184",
-            "-0.7950700531676022"
+            "-0.11517414988687223",
+            "-0.6057560826712672"
         ]
     },
     {
-        "equation": "4x^2 + 43x + 52 = 0",
+        "equation": "58x^2 + 37x + 6 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "60x^2 + 21x + 85 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "90x^2 + 19x + 42 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "38x^2 + 52x + 27 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "40x^2 + 30x + 49 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "26x^2 + 91x + 81 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "93x^2 + 78x + 71 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "67x^2 + 27x + 44 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "62x^2 + 12x + 65 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "78x^2 + 53x + 69 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "13x^2 + 1x + 96 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "51x^2 + 60x + 56 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "100x^2 + 33x + 23 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "2x^2 + 45x + 43 = 0",
         "result": [
-            "-1.3886953202245063",
-            "-9.361304679775493"
+            "-1.0",
+            "-21.5"
         ]
     },
     {
-        "equation": "96x^2 + 68x + 41 = 0",
+        "equation": "20x^2 + 68x + 74 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "69x^2 + 1x + 10 = 0",
+        "equation": "50x^2 + 54x + 28 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "71x^2 + 68x + 54 = 0",
+        "equation": "78x^2 + 88x + 97 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "26x^2 + 31x + 42 = 0",
+        "equation": "29x^2 + 53x + 72 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "29x^2 + 67x + 80 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "16x^2 + 38x + 38 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "94x^2 + 62x + 90 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "70x^2 + 66x + 28 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "55x^2 + 97x + 68 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "82x^2 + 85x + 57 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "9x^2 + 71x + 25 = 0",
+        "equation": "7x^2 + 90x + 42 = 0",
         "result": [
-            "-0.36941099040085135",
-            "-7.519477898488038"
+            "-0.48495883922436583",
+            "-12.37218401791849"
         ]
     },
     {
-        "equation": "1x^2 + 61x + 28 = 0",
+        "equation": "62x^2 + 55x + 55 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "16x^2 + 63x + 66 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "43x^2 + 96x + 21 = 0",
         "result": [
-            "-0.46252340824882054",
-            "-60.53747659175118"
+            "-0.2458154757110278",
+            "-1.986742663823856"
         ]
     },
     {
-        "equation": "37x^2 + 76x + 94 = 0",
+        "equation": "50x^2 + 32x + 24 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "6x^2 + 4x + 39 = 0",
+        "equation": "31x^2 + 25x + 65 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "34x^2 + 77x + 85 = 0",
+        "equation": "44x^2 + 79x + 66 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "78x^2 + 12x + 73 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "22x^2 + 89x + 18 = 0",
+        "equation": "73x^2 + 62x + 8 = 0",
         "result": [
-            "-0.2135164498398755",
-            "-3.83193809561467"
+            "-0.15867824878153974",
+            "-0.690636819711611"
         ]
     },
     {
-        "equation": "9x^2 + 29x + 95 = 0",
+        "equation": "40x^2 + 48x + 68 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "94x^2 + 67x + 3 = 0",
+        "equation": "10x^2 + 75x + 76 = 0",
         "result": [
-            "-0.048009935305622455",
-            "-0.6647560221411861"
+            "-1.207855236222768",
+            "-6.292144763777232"
         ]
     },
     {
-        "equation": "35x^2 + 15x + 15 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "75x^2 + 51x + 8 = 0",
+        "equation": "39x^2 + 88x + 5 = 0",
         "result": [
-            "-0.2454836874749478",
-            "-0.43451631252505213"
+            "-0.0583258438448684",
+            "-2.1980844125653882"
         ]
     },
     {
-        "equation": "45x^2 + 62x + 84 = 0",
+        "equation": "77x^2 + 30x + 8 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "77x^2 + 53x + 94 = 0",
+        "equation": "61x^2 + 7x + 55 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "75x^2 + 44x + 32 = 0",
+        "equation": "39x^2 + 46x + 95 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "78x^2 + 44x + 4 = 0",
+        "equation": "69x^2 + 81x + 76 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "55x^2 + 53x + 90 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "53x^2 + 49x + 87 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "24x^2 + 30x + 92 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "91x^2 + 86x + 11 = 0",
         "result": [
-            "-0.11391183271020512",
-            "-0.450190731392359"
+            "-0.15252264222942777",
+            "-0.7925323028255172"
         ]
     },
     {
-        "equation": "81x^2 + 23x + 70 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "55x^2 + 95x + 57 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "7x^2 + 16x + 40 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "78x^2 + 56x + 40 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "37x^2 + 16x + 94 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "61x^2 + 91x + 47 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "51x^2 + 80x + 56 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "76x^2 + 65x + 50 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "85x^2 + 1x + 7 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "58x^2 + 43x + 4 = 0",
+        "equation": "31x^2 + 95x + 55 = 0",
         "result": [
-            "-0.10906912231907727",
-            "-0.6323101880257503"
+            "-0.7748802011694261",
+            "-2.289635927862832"
         ]
     },
     {
-        "equation": "75x^2 + 43x + 21 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "17x^2 + 91x + 36 = 0",
+        "equation": "70x^2 + 70x + 10 = 0",
         "result": [
-            "-0.43017413610235",
-            "-4.922767040368238"
+            "-0.17267316464601146",
+            "-0.8273268353539885"
         ]
     },
     {
-        "equation": "70x^2 + 53x + 59 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "64x^2 + 100x + 63 = 0",
-        "result": "Complex roots"
-    },
-    {
-        "equation": "28x^2 + 87x + 14 = 0",
+        "equation": "36x^2 + 80x + 21 = 0",
         "result": [
-            "-0.17024782808112043",
-            "-2.936895029061737"
+            "-0.30412005298144723",
+            "-1.918102169240775"
         ]
     },
     {
-        "equation": "93x^2 + 18x + 80 = 0",
+        "equation": "15x^2 + 58x + 96 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "70x^2 + 66x + 48 = 0",
+        "equation": "60x^2 + 86x + 36 = 0",
         "result": "Complex roots"
     },
     {
-        "equation": "41x^2 + 25x + 92 = 0",
+        "equation": "30x^2 + 19x + 61 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "99x^2 + 7x + 86 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "92x^2 + 19x + 87 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "39x^2 + 94x + 32 = 0",
+        "result": [
+            "-0.41025641025641024",
+            "-2.0"
+        ]
+    },
+    {
+        "equation": "83x^2 + 74x + 85 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "13x^2 + 93x + 3 = 0",
+        "result": [
+            "-0.03240484908792824",
+            "-7.121441304758226"
+        ]
+    },
+    {
+        "equation": "72x^2 + 89x + 15 = 0",
+        "result": [
+            "-0.20133102253673618",
+            "-1.034780088574375"
+        ]
+    },
+    {
+        "equation": "85x^2 + 17x + 65 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "18x^2 + 72x + 31 = 0",
+        "result": [
+            "-0.490769143643764",
+            "-3.5092308563562358"
+        ]
+    },
+    {
+        "equation": "75x^2 + 43x + 87 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "53x^2 + 29x + 64 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "93x^2 + 9x + 77 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "70x^2 + 70x + 23 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "63x^2 + 52x + 97 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "18x^2 + 39x + 28 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "75x^2 + 14x + 24 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "72x^2 + 64x + 76 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "34x^2 + 100x + 49 = 0",
+        "result": [
+            "-0.6212041718709617",
+            "-2.3199722987172735"
+        ]
+    },
+    {
+        "equation": "30x^2 + 8x + 40 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "10x^2 + 88x + 33 = 0",
+        "result": [
+            "-0.39250701809722416",
+            "-8.407492981902775"
+        ]
+    },
+    {
+        "equation": "39x^2 + 75x + 45 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "60x^2 + 56x + 30 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "60x^2 + 90x + 93 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "77x^2 + 75x + 84 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "70x^2 + 33x + 87 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "15x^2 + 92x + 78 = 0",
+        "result": [
+            "-1.0161924667693734",
+            "-5.11714086656396"
+        ]
+    },
+    {
+        "equation": "57x^2 + 90x + 52 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "76x^2 + 12x + 58 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "36x^2 + 25x + 64 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "87x^2 + 32x + 71 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "10x^2 + 57x + 57 = 0",
+        "result": [
+            "-1.293561758372662",
+            "-4.406438241627338"
+        ]
+    },
+    {
+        "equation": "82x^2 + 34x + 100 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "42x^2 + 85x + 62 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "84x^2 + 4x + 49 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "36x^2 + 24x + 83 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "39x^2 + 33x + 43 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "86x^2 + 24x + 14 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "78x^2 + 48x + 7 = 0",
+        "result": [
+            "-0.23747146698651717",
+            "-0.37791314839809825"
+        ]
+    },
+    {
+        "equation": "8x^2 + 96x + 92 = 0",
+        "result": [
+            "-1.0502525316941673",
+            "-10.949747468305834"
+        ]
+    },
+    {
+        "equation": "9x^2 + 81x + 95 = 0",
+        "result": [
+            "-1.3864097179550992",
+            "-7.613590282044901"
+        ]
+    },
+    {
+        "equation": "60x^2 + 96x + 50 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "24x^2 + 26x + 30 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "80x^2 + 11x + 92 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "47x^2 + 76x + 38 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "76x^2 + 17x + 89 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "26x^2 + 61x + 38 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "25x^2 + 97x + 28 = 0",
+        "result": [
+            "-0.3140848730637876",
+            "-3.565915126936212"
+        ]
+    },
+    {
+        "equation": "27x^2 + 75x + 25 = 0",
+        "result": [
+            "-0.38734686792666967",
+            "-2.390430909851108"
+        ]
+    },
+    {
+        "equation": "57x^2 + 95x + 87 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "48x^2 + 23x + 8 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "59x^2 + 94x + 18 = 0",
+        "result": [
+            "-0.22258663654657293",
+            "-1.3706337024364779"
+        ]
+    },
+    {
+        "equation": "14x^2 + 48x + 71 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "24x^2 + 81x + 93 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "31x^2 + 11x + 93 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "65x^2 + 38x + 39 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "30x^2 + 60x + 75 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "99x^2 + 12x + 36 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "59x^2 + 51x + 56 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "22x^2 + 52x + 65 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "78x^2 + 75x + 41 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "16x^2 + 69x + 85 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "58x^2 + 92x + 35 = 0",
+        "result": [
+            "-0.6332134742155913",
+            "-0.9529934223361328"
+        ]
+    },
+    {
+        "equation": "15x^2 + 85x + 40 = 0",
+        "result": [
+            "-0.5179260017583658",
+            "-5.148740664908301"
+        ]
+    },
+    {
+        "equation": "89x^2 + 29x + 46 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "87x^2 + 73x + 81 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "52x^2 + 58x + 81 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "23x^2 + 74x + 35 = 0",
+        "result": [
+            "-0.5761441663445289",
+            "-2.641247138003297"
+        ]
+    },
+    {
+        "equation": "70x^2 + 35x + 97 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "8x^2 + 28x + 95 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "32x^2 + 40x + 29 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "80x^2 + 39x + 79 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "43x^2 + 94x + 34 = 0",
+        "result": [
+            "-0.45741161075737446",
+            "-1.7286349008705324"
+        ]
+    },
+    {
+        "equation": "1x^2 + 43x + 75 = 0",
+        "result": [
+            "-1.8213313458455715",
+            "-41.17866865415443"
+        ]
+    },
+    {
+        "equation": "4x^2 + 71x + 10 = 0",
+        "result": [
+            "-0.14198076264571569",
+            "-17.608019237354284"
+        ]
+    },
+    {
+        "equation": "98x^2 + 21x + 98 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "5x^2 + 58x + 8 = 0",
+        "result": [
+            "-0.13961132076603774",
+            "-11.460388679233962"
+        ]
+    },
+    {
+        "equation": "66x^2 + 70x + 39 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "58x^2 + 28x + 89 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "63x^2 + 68x + 79 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "80x^2 + 32x + 92 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "48x^2 + 7x + 97 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "60x^2 + 21x + 77 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "99x^2 + 87x + 17 = 0",
+        "result": [
+            "-0.293278018772834",
+            "-0.5855098600150448"
+        ]
+    },
+    {
+        "equation": "21x^2 + 52x + 67 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "76x^2 + 9x + 34 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "67x^2 + 66x + 93 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "22x^2 + 31x + 67 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "75x^2 + 17x + 1 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "13x^2 + 62x + 15 = 0",
+        "result": [
+            "-0.25563807644645425",
+            "-4.513592692784315"
+        ]
+    },
+    {
+        "equation": "64x^2 + 39x + 37 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "85x^2 + 47x + 59 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "45x^2 + 61x + 20 = 0",
+        "result": [
+            "-0.5555555555555556",
+            "-0.8"
+        ]
+    },
+    {
+        "equation": "97x^2 + 60x + 23 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "5x^2 + 87x + 41 = 0",
+        "result": [
+            "-0.4847702405836515",
+            "-16.91522975941635"
+        ]
+    },
+    {
+        "equation": "56x^2 + 96x + 5 = 0",
+        "result": [
+            "-0.053769865771286236",
+            "-1.6605158485144282"
+        ]
+    },
+    {
+        "equation": "41x^2 + 90x + 69 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "25x^2 + 71x + 57 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "51x^2 + 67x + 7 = 0",
+        "result": [
+            "-0.11444799240693908",
+            "-1.1992774977891394"
+        ]
+    },
+    {
+        "equation": "78x^2 + 100x + 58 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "17x^2 + 100x + 51 = 0",
+        "result": [
+            "-0.5640944292733235",
+            "-5.318258511903147"
+        ]
+    },
+    {
+        "equation": "87x^2 + 77x + 4 = 0",
+        "result": [
+            "-0.055418066228760665",
+            "-0.8296394050356071"
+        ]
+    },
+    {
+        "equation": "44x^2 + 17x + 47 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "4x^2 + 20x + 96 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "83x^2 + 49x + 40 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "48x^2 + 36x + 66 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "81x^2 + 31x + 80 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "33x^2 + 40x + 31 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "85x^2 + 60x + 74 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "84x^2 + 15x + 62 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "39x^2 + 71x + 9 = 0",
+        "result": [
+            "-0.13708275470181527",
+            "-1.683430065811005"
+        ]
+    },
+    {
+        "equation": "60x^2 + 80x + 53 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "64x^2 + 24x + 63 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "16x^2 + 4x + 18 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "78x^2 + 89x + 82 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "23x^2 + 88x + 22 = 0",
+        "result": [
+            "-0.268898225983562",
+            "-3.557188730538177"
+        ]
+    },
+    {
+        "equation": "37x^2 + 30x + 69 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "85x^2 + 6x + 85 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "49x^2 + 65x + 31 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "27x^2 + 55x + 28 = 0",
+        "result": [
+            "-1.0",
+            "-1.037037037037037"
+        ]
+    },
+    {
+        "equation": "32x^2 + 15x + 95 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "4x^2 + 17x + 90 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "29x^2 + 96x + 58 = 0",
+        "result": [
+            "-0.7951749025282809",
+            "-2.515169925057926"
+        ]
+    },
+    {
+        "equation": "9x^2 + 5x + 50 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "92x^2 + 64x + 14 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "70x^2 + 81x + 35 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "33x^2 + 98x + 40 = 0",
+        "result": [
+            "-0.4885283501349336",
+            "-2.481168619562036"
+        ]
+    },
+    {
+        "equation": "66x^2 + 86x + 84 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "18x^2 + 64x + 41 = 0",
+        "result": [
+            "-0.8382480819284576",
+            "-2.717307473627098"
+        ]
+    },
+    {
+        "equation": "16x^2 + 50x + 18 = 0",
+        "result": [
+            "-0.4151525155821363",
+            "-2.709847484417864"
+        ]
+    },
+    {
+        "equation": "57x^2 + 10x + 50 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "93x^2 + 22x + 81 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "11x^2 + 49x + 63 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "57x^2 + 34x + 92 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "82x^2 + 49x + 53 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "79x^2 + 14x + 38 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "36x^2 + 75x + 93 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "39x^2 + 69x + 33 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "64x^2 + 13x + 12 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "28x^2 + 94x + 56 = 0",
+        "result": [
+            "-0.7743579356305598",
+            "-2.5827849215122973"
+        ]
+    },
+    {
+        "equation": "35x^2 + 8x + 64 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "33x^2 + 79x + 22 = 0",
+        "result": [
+            "-0.3217155688462922",
+            "-2.0722238250931015"
+        ]
+    },
+    {
+        "equation": "84x^2 + 55x + 74 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "82x^2 + 94x + 75 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "21x^2 + 66x + 46 = 0",
+        "result": [
+            "-1.0433077854090753",
+            "-2.0995493574480677"
+        ]
+    },
+    {
+        "equation": "56x^2 + 16x + 8 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "33x^2 + 19x + 20 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "66x^2 + 67x + 59 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "91x^2 + 43x + 94 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "4x^2 + 87x + 11 = 0",
+        "result": [
+            "-0.1271804536920147",
+            "-21.622819546307987"
+        ]
+    },
+    {
+        "equation": "9x^2 + 11x + 53 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "28x^2 + 58x + 14 = 0",
+        "result": [
+            "-0.2789421392708182",
+            "-1.7924864321577532"
+        ]
+    },
+    {
+        "equation": "84x^2 + 13x + 66 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "56x^2 + 57x + 78 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "74x^2 + 17x + 66 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "24x^2 + 95x + 88 = 0",
+        "result": [
+            "-1.4787328271056535",
+            "-2.47960050622768"
+        ]
+    },
+    {
+        "equation": "41x^2 + 55x + 4 = 0",
+        "result": [
+            "-0.07716616957863626",
+            "-1.26429724505551"
+        ]
+    },
+    {
+        "equation": "14x^2 + 66x + 39 = 0",
+        "result": [
+            "-0.6926885431812794",
+            "-4.0215971711044345"
+        ]
+    },
+    {
+        "equation": "75x^2 + 9x + 14 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "64x^2 + 43x + 50 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "40x^2 + 12x + 12 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "71x^2 + 48x + 66 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "41x^2 + 11x + 85 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "40x^2 + 28x + 53 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "93x^2 + 14x + 84 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "46x^2 + 72x + 30 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "31x^2 + 44x + 72 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "57x^2 + 12x + 44 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "2x^2 + 90x + 33 = 0",
+        "result": [
+            "-0.36970402366927146",
+            "-44.63029597633073"
+        ]
+    },
+    {
+        "equation": "10x^2 + 28x + 50 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "94x^2 + 36x + 25 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "28x^2 + 90x + 93 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "37x^2 + 8x + 33 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "82x^2 + 37x + 75 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "71x^2 + 33x + 49 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "26x^2 + 58x + 17 = 0",
+        "result": [
+            "-0.34711598632930085",
+            "-1.88365324443993"
+        ]
+    },
+    {
+        "equation": "30x^2 + 3x + 49 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "39x^2 + 39x + 73 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "85x^2 + 15x + 40 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "62x^2 + 16x + 62 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "53x^2 + 90x + 56 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "44x^2 + 69x + 9 = 0",
+        "result": [
+            "-0.14358087858900215",
+            "-1.424600939592816"
+        ]
+    },
+    {
+        "equation": "79x^2 + 31x + 45 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "81x^2 + 92x + 34 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "36x^2 + 41x + 48 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "60x^2 + 67x + 49 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "10x^2 + 4x + 28 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "17x^2 + 98x + 20 = 0",
+        "result": [
+            "-0.21186836169031367",
+            "-5.552837520662628"
+        ]
+    },
+    {
+        "equation": "9x^2 + 35x + 59 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "77x^2 + 81x + 88 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "37x^2 + 81x + 64 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "72x^2 + 100x + 83 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "27x^2 + 65x + 61 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "63x^2 + 41x + 12 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "51x^2 + 5x + 25 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "5x^2 + 88x + 86 = 0",
+        "result": [
+            "-1.038556835227098",
+            "-16.561443164772903"
+        ]
+    },
+    {
+        "equation": "56x^2 + 76x + 85 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "88x^2 + 95x + 72 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "86x^2 + 24x + 17 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "68x^2 + 95x + 36 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "23x^2 + 100x + 99 = 0",
+        "result": [
+            "-1.5246441511709532",
+            "-2.8231819357855685"
+        ]
+    },
+    {
+        "equation": "19x^2 + 79x + 29 = 0",
+        "result": [
+            "-0.4069107745657818",
+            "-3.7509839622763232"
+        ]
+    },
+    {
+        "equation": "42x^2 + 5x + 41 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "44x^2 + 75x + 19 = 0",
+        "result": [
+            "-0.3095475483518385",
+            "-1.394997906193616"
+        ]
+    },
+    {
+        "equation": "70x^2 + 44x + 40 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "35x^2 + 41x + 71 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "16x^2 + 10x + 100 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "88x^2 + 78x + 1 = 0",
+        "result": [
+            "-0.013011517483006814",
+            "-0.8733521188806296"
+        ]
+    },
+    {
+        "equation": "42x^2 + 11x + 89 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "73x^2 + 67x + 86 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "93x^2 + 25x + 14 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "24x^2 + 27x + 17 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "69x^2 + 26x + 48 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "49x^2 + 55x + 92 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "14x^2 + 86x + 45 = 0",
+        "result": [
+            "-0.5775585357005585",
+            "-5.565298607156584"
+        ]
+    },
+    {
+        "equation": "77x^2 + 90x + 100 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "38x^2 + 54x + 66 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "73x^2 + 72x + 2 = 0",
+        "result": [
+            "-0.028607535402378884",
+            "-0.9576938344606348"
+        ]
+    },
+    {
+        "equation": "52x^2 + 60x + 19 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "92x^2 + 74x + 12 = 0",
+        "result": [
+            "-0.22523021091195972",
+            "-0.5791176151749968"
+        ]
+    },
+    {
+        "equation": "43x^2 + 48x + 7 = 0",
+        "result": [
+            "-0.17248548949355813",
+            "-0.9437935802738836"
+        ]
+    },
+    {
+        "equation": "61x^2 + 53x + 75 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "36x^2 + 1x + 89 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "99x^2 + 28x + 25 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "5x^2 + 6x + 28 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "50x^2 + 40x + 89 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "88x^2 + 60x + 66 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "70x^2 + 94x + 55 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "8x^2 + 27x + 97 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "66x^2 + 46x + 50 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "84x^2 + 21x + 67 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "66x^2 + 81x + 27 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "51x^2 + 53x + 61 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "52x^2 + 20x + 5 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "34x^2 + 91x + 32 = 0",
+        "result": [
+            "-0.41644506210501064",
+            "-2.2600255261302835"
+        ]
+    },
+    {
+        "equation": "95x^2 + 55x + 88 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "100x^2 + 62x + 53 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "16x^2 + 97x + 15 = 0",
+        "result": [
+            "-0.15879868405050246",
+            "-5.9037013159494975"
+        ]
+    },
+    {
+        "equation": "63x^2 + 47x + 46 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "97x^2 + 84x + 81 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "37x^2 + 10x + 84 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "21x^2 + 20x + 71 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "17x^2 + 38x + 17 = 0",
+        "result": [
+            "-0.6185128603389076",
+            "-1.616781257308151"
+        ]
+    },
+    {
+        "equation": "49x^2 + 61x + 51 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "86x^2 + 2x + 29 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "60x^2 + 73x + 36 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "42x^2 + 83x + 55 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "8x^2 + 85x + 22 = 0",
+        "result": [
+            "-0.2654556916943953",
+            "-10.359544308305605"
+        ]
+    },
+    {
+        "equation": "24x^2 + 11x + 3 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "67x^2 + 92x + 83 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "46x^2 + 51x + 20 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "9x^2 + 58x + 99 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "18x^2 + 11x + 52 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "11x^2 + 96x + 32 = 0",
+        "result": [
+            "-0.3471414482955414",
+            "-8.380131278977187"
+        ]
+    },
+    {
+        "equation": "6x^2 + 98x + 46 = 0",
+        "result": [
+            "-0.48371295225592686",
+            "-15.849620381077406"
+        ]
+    },
+    {
+        "equation": "82x^2 + 35x + 16 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "1x^2 + 44x + 50 = 0",
+        "result": [
+            "-1.1673333440003404",
+            "-42.83266665599966"
+        ]
+    },
+    {
+        "equation": "3x^2 + 38x + 8 = 0",
+        "result": [
+            "-0.2141467497713935",
+            "-12.452519916895275"
+        ]
+    },
+    {
+        "equation": "2x^2 + 68x + 61 = 0",
+        "result": [
+            "-0.9220648091864732",
+            "-33.07793519081353"
+        ]
+    },
+    {
+        "equation": "79x^2 + 82x + 26 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "51x^2 + 32x + 29 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "82x^2 + 55x + 16 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "73x^2 + 65x + 84 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "54x^2 + 55x + 12 = 0",
+        "result": [
+            "-0.31658655512328876",
+            "-0.7019319633952298"
+        ]
+    },
+    {
+        "equation": "79x^2 + 2x + 94 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "72x^2 + 31x + 48 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "99x^2 + 71x + 6 = 0",
+        "result": [
+            "-0.09786041415878168",
+            "-0.6193113030129355"
+        ]
+    },
+    {
+        "equation": "64x^2 + 25x + 44 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "67x^2 + 38x + 11 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "23x^2 + 10x + 41 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "6x^2 + 84x + 95 = 0",
+        "result": [
+            "-1.240949152276335",
+            "-12.759050847723666"
+        ]
+    },
+    {
+        "equation": "24x^2 + 90x + 65 = 0",
+        "result": [
+            "-0.976505889464674",
+            "-2.773494110535326"
+        ]
+    },
+    {
+        "equation": "70x^2 + 35x + 50 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "71x^2 + 87x + 58 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "17x^2 + 8x + 15 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "48x^2 + 41x + 33 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "40x^2 + 57x + 62 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "65x^2 + 81x + 52 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "98x^2 + 99x + 45 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "49x^2 + 53x + 9 = 0",
+        "result": [
+            "-0.21095449234194666",
+            "-0.8706781607192777"
+        ]
+    },
+    {
+        "equation": "72x^2 + 55x + 1 = 0",
+        "result": [
+            "-0.01863649001310197",
+            "-0.7452523988757869"
+        ]
+    },
+    {
+        "equation": "3x^2 + 44x + 49 = 0",
+        "result": [
+            "-1.2141467497713936",
+            "-13.452519916895275"
+        ]
+    },
+    {
+        "equation": "92x^2 + 2x + 84 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "87x^2 + 60x + 59 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "54x^2 + 46x + 90 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "76x^2 + 44x + 90 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "75x^2 + 66x + 40 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "95x^2 + 23x + 92 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "37x^2 + 70x + 68 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "91x^2 + 82x + 5 = 0",
+        "result": [
+            "-0.06577711208765719",
+            "-0.8353217890112439"
+        ]
+    },
+    {
+        "equation": "33x^2 + 5x + 9 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "18x^2 + 7x + 42 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "34x^2 + 84x + 95 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "85x^2 + 39x + 45 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "40x^2 + 82x + 24 = 0",
+        "result": [
+            "-0.35371392089512244",
+            "-1.6962860791048775"
+        ]
+    },
+    {
+        "equation": "19x^2 + 20x + 43 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "56x^2 + 70x + 99 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "44x^2 + 15x + 10 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "98x^2 + 69x + 57 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "55x^2 + 87x + 27 = 0",
+        "result": [
+            "-0.42399207144344425",
+            "-1.1578261103747376"
+        ]
+    },
+    {
+        "equation": "57x^2 + 93x + 47 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "30x^2 + 61x + 3 = 0",
+        "result": [
+            "-0.050431130624283685",
+            "-1.9829022027090497"
+        ]
+    },
+    {
+        "equation": "6x^2 + 59x + 50 = 0",
+        "result": [
+            "-0.9366820212468158",
+            "-8.896651312086517"
+        ]
+    },
+    {
+        "equation": "32x^2 + 59x + 13 = 0",
+        "result": [
+            "-0.2558393285641527",
+            "-1.5879106714358473"
+        ]
+    },
+    {
+        "equation": "43x^2 + 1x + 70 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "26x^2 + 1x + 34 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "94x^2 + 64x + 11 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "16x^2 + 59x + 95 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "33x^2 + 82x + 18 = 0",
+        "result": [
+            "-0.2433429380706342",
+            "-2.241505546777851"
+        ]
+    },
+    {
+        "equation": "88x^2 + 53x + 60 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "51x^2 + 78x + 98 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "24x^2 + 73x + 48 = 0",
+        "result": [
+            "-0.961428267412602",
+            "-2.0802383992540645"
+        ]
+    },
+    {
+        "equation": "100x^2 + 88x + 35 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "98x^2 + 44x + 55 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "100x^2 + 93x + 74 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "55x^2 + 22x + 33 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "17x^2 + 19x + 25 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "8x^2 + 45x + 46 = 0",
+        "result": [
+            "-1.3427529979618942",
+            "-4.282247002038106"
+        ]
+    },
+    {
+        "equation": "40x^2 + 32x + 76 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "19x^2 + 69x + 73 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "62x^2 + 20x + 59 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "69x^2 + 85x + 16 = 0",
+        "result": [
+            "-0.2318840579710145",
+            "-1.0"
+        ]
+    },
+    {
+        "equation": "54x^2 + 77x + 53 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "45x^2 + 51x + 22 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "80x^2 + 41x + 18 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "93x^2 + 78x + 62 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "89x^2 + 37x + 76 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "54x^2 + 3x + 88 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "18x^2 + 24x + 61 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "67x^2 + 74x + 25 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "66x^2 + 35x + 91 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "84x^2 + 100x + 53 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "31x^2 + 34x + 54 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "15x^2 + 18x + 13 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "1x^2 + 97x + 30 = 0",
+        "result": [
+            "-0.3102708038320685",
+            "-96.68972919616793"
+        ]
+    },
+    {
+        "equation": "65x^2 + 2x + 6 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "72x^2 + 29x + 54 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "72x^2 + 100x + 20 = 0",
+        "result": [
+            "-0.24225498344167484",
+            "-1.146633905447214"
+        ]
+    },
+    {
+        "equation": "71x^2 + 46x + 99 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "25x^2 + 97x + 55 = 0",
+        "result": [
+            "-0.6895600774127532",
+            "-3.190439922587247"
+        ]
+    },
+    {
+        "equation": "46x^2 + 58x + 52 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "37x^2 + 49x + 29 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "90x^2 + 69x + 12 = 0",
+        "result": [
+            "-0.26666666666666666",
+            "-0.5"
+        ]
+    },
+    {
+        "equation": "74x^2 + 32x + 79 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "40x^2 + 25x + 14 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "66x^2 + 13x + 36 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "31x^2 + 7x + 60 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "73x^2 + 57x + 71 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "1x^2 + 83x + 37 = 0",
+        "result": [
+            "-0.4482034497879752",
+            "-82.55179655021203"
+        ]
+    },
+    {
+        "equation": "28x^2 + 17x + 77 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "28x^2 + 63x + 49 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "53x^2 + 66x + 86 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "15x^2 + 7x + 43 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "80x^2 + 50x + 37 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "8x^2 + 7x + 14 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "2x^2 + 1x + 95 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "9x^2 + 82x + 4 = 0",
+        "result": [
+            "-0.0490444909615009",
+            "-9.062066620149611"
+        ]
+    },
+    {
+        "equation": "6x^2 + 32x + 17 = 0",
+        "result": [
+            "-0.5983877256681905",
+            "-4.734945607665143"
+        ]
+    },
+    {
+        "equation": "67x^2 + 93x + 15 = 0",
+        "result": [
+            "-0.1862928748306253",
+            "-1.2017668266619121"
+        ]
+    },
+    {
+        "equation": "63x^2 + 53x + 100 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "29x^2 + 71x + 35 = 0",
+        "result": [
+            "-0.6841220771253164",
+            "-1.764153784943649"
+        ]
+    },
+    {
+        "equation": "23x^2 + 62x + 86 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "21x^2 + 7x + 33 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "35x^2 + 97x + 92 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "89x^2 + 34x + 22 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "36x^2 + 14x + 23 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "22x^2 + 2x + 73 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "56x^2 + 66x + 66 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "25x^2 + 19x + 75 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "83x^2 + 26x + 62 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "67x^2 + 81x + 67 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "32x^2 + 55x + 52 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "27x^2 + 51x + 85 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "77x^2 + 20x + 57 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "96x^2 + 83x + 70 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "80x^2 + 35x + 53 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "23x^2 + 17x + 52 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "14x^2 + 12x + 4 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "94x^2 + 52x + 88 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "18x^2 + 46x + 28 = 0",
+        "result": [
+            "-1.0",
+            "-1.5555555555555556"
+        ]
+    },
+    {
+        "equation": "63x^2 + 13x + 68 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "70x^2 + 46x + 98 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "46x^2 + 24x + 22 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "31x^2 + 39x + 65 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "76x^2 + 41x + 34 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "33x^2 + 65x + 18 = 0",
+        "result": [
+            "-0.3333333333333333",
+            "-1.6363636363636365"
+        ]
+    },
+    {
+        "equation": "93x^2 + 2x + 100 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "11x^2 + 14x + 60 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "74x^2 + 5x + 51 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "27x^2 + 84x + 9 = 0",
+        "result": [
+            "-0.1111111111111111",
+            "-3.0"
+        ]
+    },
+    {
+        "equation": "46x^2 + 44x + 68 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "89x^2 + 24x + 46 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "18x^2 + 43x + 77 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "69x^2 + 61x + 26 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "88x^2 + 43x + 44 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "57x^2 + 17x + 31 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "39x^2 + 19x + 25 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "49x^2 + 47x + 76 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "96x^2 + 44x + 93 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "25x^2 + 90x + 49 = 0",
+        "result": [
+            "-0.6686291501015239",
+            "-2.9313708498984763"
+        ]
+    },
+    {
+        "equation": "46x^2 + 7x + 63 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "94x^2 + 91x + 82 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "95x^2 + 18x + 43 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "74x^2 + 88x + 1 = 0",
+        "result": [
+            "-0.011474351070502257",
+            "-1.1777148381186868"
+        ]
+    },
+    {
+        "equation": "46x^2 + 76x + 61 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "22x^2 + 89x + 79 = 0",
+        "result": [
+            "-1.3152553447148463",
+            "-2.7301992007396994"
+        ]
+    },
+    {
+        "equation": "72x^2 + 68x + 41 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "19x^2 + 28x + 55 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "67x^2 + 2x + 17 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "81x^2 + 75x + 73 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "36x^2 + 19x + 76 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "46x^2 + 63x + 22 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "61x^2 + 16x + 7 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "84x^2 + 73x + 15 = 0",
+        "result": [
+            "-0.3333333333333333",
+            "-0.5357142857142857"
+        ]
+    },
+    {
+        "equation": "62x^2 + 94x + 85 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "28x^2 + 56x + 43 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "16x^2 + 41x + 21 = 0",
+        "result": [
+            "-0.7075762577910681",
+            "-1.854923742208932"
+        ]
+    },
+    {
+        "equation": "89x^2 + 16x + 42 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "50x^2 + 32x + 18 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "10x^2 + 63x + 90 = 0",
+        "result": [
+            "-2.189531364385073",
+            "-4.110468635614927"
+        ]
+    },
+    {
+        "equation": "8x^2 + 83x + 49 = 0",
+        "result": [
+            "-0.6284259437907789",
+            "-9.746574056209221"
+        ]
+    },
+    {
+        "equation": "96x^2 + 12x + 89 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "66x^2 + 42x + 97 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "85x^2 + 40x + 9 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "69x^2 + 92x + 55 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "24x^2 + 6x + 11 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "75x^2 + 27x + 17 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "90x^2 + 100x + 52 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "55x^2 + 46x + 15 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "1x^2 + 58x + 61 = 0",
+        "result": [
+            "-1.0715199124621186",
+            "-56.92848008753788"
+        ]
+    },
+    {
+        "equation": "100x^2 + 49x + 54 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "29x^2 + 84x + 41 = 0",
+        "result": [
+            "-0.6214083580495311",
+            "-2.2751433660884"
+        ]
+    },
+    {
+        "equation": "22x^2 + 4x + 57 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "34x^2 + 64x + 13 = 0",
+        "result": [
+            "-0.23162717165795185",
+            "-1.6507257695185187"
+        ]
+    },
+    {
+        "equation": "60x^2 + 87x + 72 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "55x^2 + 38x + 23 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "89x^2 + 3x + 31 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "74x^2 + 40x + 39 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "51x^2 + 43x + 97 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "70x^2 + 15x + 18 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "34x^2 + 74x + 39 = 0",
+        "result": [
+            "-0.8953694551675883",
+            "-1.2811011330677058"
+        ]
+    },
+    {
+        "equation": "37x^2 + 21x + 94 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "1x^2 + 51x + 63 = 0",
+        "result": [
+            "-1.266758367894731",
+            "-49.73324163210527"
+        ]
+    },
+    {
+        "equation": "67x^2 + 83x + 87 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "3x^2 + 85x + 95 = 0",
+        "result": [
+            "-1.1655983344957381",
+            "-27.16773499883759"
+        ]
+    },
+    {
+        "equation": "36x^2 + 48x + 22 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "21x^2 + 17x + 37 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "48x^2 + 100x + 22 = 0",
+        "result": [
+            "-0.25",
+            "-1.8333333333333333"
+        ]
+    },
+    {
+        "equation": "79x^2 + 69x + 55 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "48x^2 + 95x + 28 = 0",
+        "result": [
+            "-0.36034423706087687",
+            "-1.6188224296057898"
+        ]
+    },
+    {
+        "equation": "28x^2 + 99x + 50 = 0",
+        "result": [
+            "-0.6104442554929427",
+            "-2.9252700302213435"
+        ]
+    },
+    {
+        "equation": "1x^2 + 58x + 14 = 0",
+        "result": [
+            "-0.24239231090318825",
+            "-57.757607689096815"
+        ]
+    },
+    {
+        "equation": "81x^2 + 35x + 60 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "55x^2 + 39x + 93 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "17x^2 + 65x + 52 = 0",
+        "result": [
+            "-1.1397408971525476",
+            "-2.683788514612158"
+        ]
+    },
+    {
+        "equation": "50x^2 + 78x + 37 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "25x^2 + 95x + 93 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "26x^2 + 69x + 14 = 0",
+        "result": [
+            "-0.22136289601501466",
+            "-2.432483257831139"
+        ]
+    },
+    {
+        "equation": "54x^2 + 82x + 76 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "95x^2 + 33x + 41 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "82x^2 + 96x + 30 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "87x^2 + 57x + 85 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "45x^2 + 92x + 77 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "16x^2 + 16x + 41 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "74x^2 + 43x + 83 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "83x^2 + 38x + 86 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "54x^2 + 60x + 69 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "44x^2 + 18x + 14 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "91x^2 + 78x + 78 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "82x^2 + 99x + 81 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "9x^2 + 12x + 72 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "25x^2 + 8x + 70 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "50x^2 + 71x + 44 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "26x^2 + 39x + 3 = 0",
+        "result": [
+            "-0.08133312881870348",
+            "-1.4186668711812964"
+        ]
+    },
+    {
+        "equation": "54x^2 + 35x + 96 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "3x^2 + 42x + 13 = 0",
+        "result": [
+            "-0.3166874480788593",
+            "-13.68331255192114"
+        ]
+    },
+    {
+        "equation": "38x^2 + 93x + 22 = 0",
+        "result": [
+            "-0.2653232771247293",
+            "-2.1820451439279025"
+        ]
+    },
+    {
+        "equation": "34x^2 + 3x + 72 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "62x^2 + 2x + 57 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "77x^2 + 8x + 69 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "93x^2 + 1x + 46 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "86x^2 + 38x + 83 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "68x^2 + 4x + 4 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "72x^2 + 64x + 68 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "80x^2 + 90x + 25 = 0",
+        "result": [
+            "-0.5",
+            "-0.625"
+        ]
+    },
+    {
+        "equation": "6x^2 + 45x + 76 = 0",
+        "result": [
+            "-2.5685460934368476",
+            "-4.931453906563152"
+        ]
+    },
+    {
+        "equation": "18x^2 + 72x + 98 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "37x^2 + 4x + 43 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "49x^2 + 56x + 73 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "68x^2 + 44x + 66 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "12x^2 + 36x + 100 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "64x^2 + 40x + 35 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "80x^2 + 83x + 35 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "100x^2 + 21x + 71 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "61x^2 + 92x + 82 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "75x^2 + 23x + 6 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "85x^2 + 67x + 14 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "91x^2 + 74x + 3 = 0",
+        "result": [
+            "-0.0427924097308385",
+            "-0.7703944034559747"
+        ]
+    },
+    {
+        "equation": "10x^2 + 98x + 77 = 0",
+        "result": [
+            "-0.8614358987382659",
+            "-8.938564101261735"
+        ]
+    },
+    {
+        "equation": "32x^2 + 88x + 64 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "67x^2 + 9x + 74 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "34x^2 + 88x + 54 = 0",
+        "result": [
+            "-1.0",
+            "-1.588235294117647"
+        ]
+    },
+    {
+        "equation": "93x^2 + 65x + 68 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "71x^2 + 62x + 23 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "39x^2 + 6x + 6 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "29x^2 + 19x + 30 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "88x^2 + 38x + 9 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "61x^2 + 18x + 25 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "62x^2 + 64x + 85 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "5x^2 + 69x + 23 = 0",
+        "result": [
+            "-0.3417990271721621",
+            "-13.458200972827836"
+        ]
+    },
+    {
+        "equation": "86x^2 + 38x + 75 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "12x^2 + 35x + 23 = 0",
+        "result": [
+            "-1.0",
+            "-1.9166666666666667"
+        ]
+    },
+    {
+        "equation": "9x^2 + 35x + 55 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "67x^2 + 50x + 98 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "47x^2 + 24x + 7 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "7x^2 + 37x + 50 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "3x^2 + 16x + 49 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "1x^2 + 97x + 74 = 0",
+        "result": [
+            "-0.7689828308677278",
+            "-96.23101716913227"
+        ]
+    },
+    {
+        "equation": "73x^2 + 4x + 94 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "70x^2 + 7x + 74 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "16x^2 + 40x + 55 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "98x^2 + 33x + 84 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "68x^2 + 53x + 5 = 0",
+        "result": [
+            "-0.10981078954890766",
+            "-0.6696009751569747"
+        ]
+    },
+    {
+        "equation": "55x^2 + 43x + 53 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "99x^2 + 97x + 41 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "61x^2 + 59x + 24 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "29x^2 + 35x + 59 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "54x^2 + 96x + 90 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "43x^2 + 46x + 65 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "28x^2 + 32x + 81 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "25x^2 + 77x + 86 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "23x^2 + 40x + 12 = 0",
+        "result": [
+            "-0.38541179453651986",
+            "-1.353718640246089"
+        ]
+    },
+    {
+        "equation": "80x^2 + 24x + 74 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "55x^2 + 45x + 53 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "60x^2 + 87x + 73 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "84x^2 + 42x + 24 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "41x^2 + 33x + 32 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "84x^2 + 15x + 42 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "59x^2 + 55x + 57 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "33x^2 + 51x + 65 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "23x^2 + 52x + 80 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "14x^2 + 41x + 25 = 0",
+        "result": [
+            "-0.8656051923485639",
+            "-2.0629662362228647"
+        ]
+    },
+    {
+        "equation": "62x^2 + 78x + 54 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "36x^2 + 48x + 52 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "36x^2 + 11x + 30 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "61x^2 + 97x + 85 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "94x^2 + 76x + 86 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "58x^2 + 26x + 20 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "58x^2 + 55x + 55 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "34x^2 + 22x + 77 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "43x^2 + 63x + 82 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "7x^2 + 83x + 57 = 0",
+        "result": [
+            "-0.7319280849489006",
+            "-11.125214772193956"
+        ]
+    },
+    {
+        "equation": "31x^2 + 88x + 38 = 0",
+        "result": [
+            "-0.5312322646492771",
+            "-2.307477412770078"
+        ]
+    },
+    {
+        "equation": "94x^2 + 4x + 90 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "10x^2 + 71x + 98 = 0",
+        "result": [
+            "-1.8759330957216793",
+            "-5.224066904278321"
+        ]
+    },
+    {
+        "equation": "81x^2 + 55x + 69 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "59x^2 + 16x + 15 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "39x^2 + 62x + 85 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "44x^2 + 32x + 37 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "79x^2 + 22x + 42 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "37x^2 + 89x + 65 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "42x^2 + 70x + 49 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "34x^2 + 51x + 92 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "60x^2 + 76x + 85 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "46x^2 + 80x + 98 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "17x^2 + 81x + 8 = 0",
+        "result": [
+            "-0.10090224018859656",
+            "-4.6638036421643445"
+        ]
+    },
+    {
+        "equation": "5x^2 + 24x + 76 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "1x^2 + 21x + 67 = 0",
+        "result": [
+            "-3.9235267810170473",
+            "-17.076473218982954"
+        ]
+    },
+    {
+        "equation": "32x^2 + 21x + 21 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "53x^2 + 2x + 29 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "53x^2 + 95x + 68 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "66x^2 + 21x + 59 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "40x^2 + 73x + 65 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "3x^2 + 9x + 34 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "91x^2 + 6x + 8 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "23x^2 + 29x + 100 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "30x^2 + 1x + 37 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "18x^2 + 87x + 55 = 0",
+        "result": [
+            "-0.7479179671249345",
+            "-4.085415366208399"
+        ]
+    },
+    {
+        "equation": "75x^2 + 100x + 35 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "78x^2 + 83x + 37 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "2x^2 + 99x + 75 = 0",
+        "result": [
+            "-0.7695392037600755",
+            "-48.730460796239925"
+        ]
+    },
+    {
+        "equation": "22x^2 + 76x + 41 = 0",
+        "result": [
+            "-0.6690502975615622",
+            "-2.785495156983892"
+        ]
+    },
+    {
+        "equation": "26x^2 + 91x + 23 = 0",
+        "result": [
+            "-0.27423422746540993",
+            "-3.2257657725345896"
+        ]
+    },
+    {
+        "equation": "52x^2 + 80x + 98 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "38x^2 + 92x + 48 = 0",
+        "result": [
+            "-0.7608419081411826",
+            "-1.6602107234377648"
+        ]
+    },
+    {
+        "equation": "9x^2 + 45x + 69 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "99x^2 + 11x + 11 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "58x^2 + 84x + 72 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "63x^2 + 56x + 20 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "13x^2 + 16x + 9 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "98x^2 + 93x + 34 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "62x^2 + 10x + 23 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "12x^2 + 85x + 9 = 0",
+        "result": [
+            "-0.10751425627807443",
+            "-6.975819077055259"
+        ]
+    },
+    {
+        "equation": "10x^2 + 90x + 28 = 0",
+        "result": [
+            "-0.32268028515891556",
+            "-8.677319714841085"
+        ]
+    },
+    {
+        "equation": "47x^2 + 18x + 87 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "28x^2 + 76x + 81 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "44x^2 + 42x + 19 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "96x^2 + 6x + 64 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "47x^2 + 43x + 52 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "63x^2 + 40x + 4 = 0",
+        "result": [
+            "-0.1243567450698978",
+            "-0.5105638898507371"
+        ]
+    },
+    {
+        "equation": "19x^2 + 88x + 79 = 0",
+        "result": [
+            "-1.2180708623887258",
+            "-3.413508084979695"
+        ]
+    },
+    {
+        "equation": "45x^2 + 43x + 58 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "69x^2 + 50x + 26 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "65x^2 + 77x + 51 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "16x^2 + 37x + 73 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "23x^2 + 23x + 82 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "57x^2 + 57x + 84 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "43x^2 + 60x + 87 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "55x^2 + 88x + 44 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "67x^2 + 46x + 18 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "33x^2 + 81x + 25 = 0",
+        "result": [
+            "-0.36204293725641007",
+            "-2.0925025172890446"
+        ]
+    },
+    {
+        "equation": "7x^2 + 11x + 40 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "53x^2 + 24x + 58 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "91x^2 + 5x + 75 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "98x^2 + 39x + 1 = 0",
+        "result": [
+            "-0.0275479835060057",
+            "-0.3704112001674637"
+        ]
+    },
+    {
+        "equation": "52x^2 + 2x + 40 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "84x^2 + 85x + 51 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "72x^2 + 53x + 50 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "58x^2 + 90x + 51 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "95x^2 + 95x + 28 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "8x^2 + 29x + 45 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "90x^2 + 79x + 84 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "5x^2 + 28x + 65 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "41x^2 + 22x + 82 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "18x^2 + 29x + 6 = 0",
+        "result": [
+            "-0.24378476621786987",
+            "-1.3673263448932411"
+        ]
+    },
+    {
+        "equation": "2x^2 + 38x + 21 = 0",
+        "result": [
+            "-0.5697144502541249",
+            "-18.430285549745875"
+        ]
+    },
+    {
+        "equation": "60x^2 + 59x + 16 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "13x^2 + 87x + 37 = 0",
+        "result": [
+            "-0.45641480672894813",
+            "-6.235892885578744"
+        ]
+    },
+    {
+        "equation": "81x^2 + 41x + 80 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "46x^2 + 43x + 72 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "3x^2 + 87x + 65 = 0",
+        "result": [
+            "-0.7674352965903211",
+            "-28.23256470340968"
+        ]
+    },
+    {
+        "equation": "47x^2 + 63x + 50 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "84x^2 + 49x + 62 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "32x^2 + 80x + 76 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "54x^2 + 45x + 1 = 0",
+        "result": [
+            "-0.022848697812282645",
+            "-0.8104846355210507"
+        ]
+    },
+    {
+        "equation": "70x^2 + 39x + 88 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "70x^2 + 30x + 48 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "44x^2 + 60x + 99 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "1x^2 + 20x + 9 = 0",
+        "result": [
+            "-0.46060798583054385",
+            "-19.539392014169458"
+        ]
+    },
+    {
+        "equation": "53x^2 + 72x + 99 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "25x^2 + 9x + 54 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "66x^2 + 59x + 63 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "11x^2 + 88x + 31 = 0",
+        "result": [
+            "-0.36932262768802554",
+            "-7.630677372311975"
+        ]
+    },
+    {
+        "equation": "87x^2 + 23x + 79 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "73x^2 + 3x + 75 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "3x^2 + 11x + 19 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "83x^2 + 20x + 89 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "97x^2 + 6x + 29 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "9x^2 + 40x + 58 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "61x^2 + 85x + 11 = 0",
+        "result": [
+            "-0.14436932495634602",
+            "-1.2490732979944739"
+        ]
+    },
+    {
+        "equation": "87x^2 + 75x + 23 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "12x^2 + 71x + 91 = 0",
+        "result": [
+            "-1.8774065190772629",
+            "-4.039260147589403"
+        ]
+    },
+    {
+        "equation": "6x^2 + 48x + 29 = 0",
+        "result": [
+            "-0.6583437240394296",
+            "-7.34165627596057"
+        ]
+    },
+    {
+        "equation": "15x^2 + 77x + 73 = 0",
+        "result": [
+            "-1.2547554230563713",
+            "-3.8785779102769617"
+        ]
+    },
+    {
+        "equation": "86x^2 + 11x + 94 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "30x^2 + 60x + 80 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "66x^2 + 58x + 92 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "24x^2 + 96x + 54 = 0",
+        "result": [
+            "-0.6771243444677046",
+            "-3.3228756555322954"
+        ]
+    },
+    {
+        "equation": "9x^2 + 9x + 50 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "60x^2 + 90x + 23 = 0",
+        "result": [
+            "-0.3267191633599902",
+            "-1.1732808366400098"
+        ]
+    },
+    {
+        "equation": "29x^2 + 43x + 30 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "15x^2 + 53x + 2 = 0",
+        "result": [
+            "-0.038147711671443575",
+            "-3.4951856216618897"
+        ]
+    },
+    {
+        "equation": "36x^2 + 70x + 96 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "5x^2 + 90x + 71 = 0",
+        "result": [
+            "-0.8268733033189803",
+            "-17.17312669668102"
+        ]
+    },
+    {
+        "equation": "55x^2 + 39x + 31 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "1x^2 + 53x + 72 = 0",
+        "result": [
+            "-1.3952195787336166",
+            "-51.60478042126638"
+        ]
+    },
+    {
+        "equation": "80x^2 + 66x + 2 = 0",
+        "result": [
+            "-0.03150623364679572",
+            "-0.7934937663532043"
+        ]
+    },
+    {
+        "equation": "81x^2 + 44x + 76 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "49x^2 + 37x + 58 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "7x^2 + 35x + 56 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "65x^2 + 7x + 30 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "58x^2 + 43x + 46 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "73x^2 + 61x + 50 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "62x^2 + 79x + 89 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "85x^2 + 100x + 17 = 0",
+        "result": [
+            "-0.20610866426090085",
+            "-0.9703619239743934"
+        ]
+    },
+    {
+        "equation": "37x^2 + 54x + 17 = 0",
+        "result": [
+            "-0.4594594594594595",
+            "-1.0"
+        ]
+    },
+    {
+        "equation": "17x^2 + 78x + 42 = 0",
+        "result": [
+            "-0.6230737986656716",
+            "-3.965161495451975"
+        ]
+    },
+    {
+        "equation": "17x^2 + 31x + 47 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "20x^2 + 91x + 39 = 0",
+        "result": [
+            "-0.47899749443381906",
+            "-4.071002505566181"
+        ]
+    },
+    {
+        "equation": "61x^2 + 96x + 41 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "60x^2 + 74x + 59 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "21x^2 + 26x + 36 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "28x^2 + 36x + 67 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "11x^2 + 77x + 49 = 0",
+        "result": [
+            "-0.7079658767388701",
+            "-6.292034123261129"
+        ]
+    },
+    {
+        "equation": "56x^2 + 28x + 70 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "88x^2 + 86x + 91 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "12x^2 + 38x + 88 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "67x^2 + 11x + 39 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "68x^2 + 47x + 78 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "59x^2 + 14x + 24 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "68x^2 + 37x + 53 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "55x^2 + 31x + 95 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "57x^2 + 59x + 11 = 0",
+        "result": [
+            "-0.24392150946522417",
+            "-0.7911662098330214"
+        ]
+    },
+    {
+        "equation": "28x^2 + 61x + 64 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "42x^2 + 68x + 38 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "40x^2 + 39x + 77 = 0",
+        "result": "Complex roots"
+    },
+    {
+        "equation": "42x^2 + 68x + 23 = 0",
+        "result": [
+            "-0.48133217256928046",
+            "-1.1377154464783386"
+        ]
+    },
+    {
+        "equation": "4x^2 + 6x + 84 = 0",
         "result": "Complex roots"
     }
 ]
